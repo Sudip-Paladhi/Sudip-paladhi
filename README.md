@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip-paladhi&label=Profile%20views&color=0e75b6&style=flat" alt="sudip-paladhi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@sudippaladhi" target="blank"><img src="https://img.shields.io/twitter/follow/@sudippaladhi?logo=twitter&style=for-the-badge" alt="@sudippaladhi" /></a> </p>
-
 - 🌟 I have a keen interest in **web design and development**
 - 🌱 Currently, I'm actively learning **React.js**
 - 🌱 I'm eager to explore Backend development further.
