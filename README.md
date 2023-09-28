@@ -10,8 +10,9 @@
 - 🌟 I have a keen interest in **web design and development**
 - 🌱 Currently, I'm actively learning **React.js**
 - 🌱 I'm eager to explore Backend development further.
-- 📫 You can contact me at **sudippaladhi@gmail.com**
 - ⚡ I'm open to collaborating on web development projects
+- 📫 You can contact me at **sudippaladhi@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
