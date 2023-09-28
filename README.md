@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@sudippaladhi" target="blank"><img src="https://img.shields.io/twitter/follow/@sudippaladhi?logo=twitter&style=for-the-badge" alt="@sudippaladhi" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **sudippaladhi@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+- 🌟 I have a keen interest in **web design and development**
+- 🌱 Currently, I'm actively learning **React.js**
+- 🌱 I'm eager to explore Backend development further.
+- 📫 You can contact me at **sudippaladhi@gmail.com**
+- ⚡ I'm open to collaborating on web development projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
